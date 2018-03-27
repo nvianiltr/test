@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 gwegewgdawdawd
+=======
+dawdafewfwswd
+>>>>>>> ba9f3bca9aca6949a3b7cc6f58ead7ff42852a91
